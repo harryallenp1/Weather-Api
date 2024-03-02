@@ -29,7 +29,7 @@ This script fetches the current weather data for a specified city using the Open
    python weather_fetcher.py
    ```
 
-2. You'll be prompted to enter the name of the city for which you want to fetch the weather information.
+2. You will be prompted to enter the name of the city for which you want to fetch the weather information.
 
 3. Once you provide the city's name, the script will fetch and display the following weather details:
    - Temperature in Celsius and Fahrenheit
